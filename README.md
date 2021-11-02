@@ -1,4 +1,4 @@
 # A List Of Movies
 
-### An awesome List of very awesome movies made by an awesome friend
+### An awesome List of movies.
 #### I just gave it an interface.
